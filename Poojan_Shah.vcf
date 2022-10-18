@@ -1,0 +1,19 @@
+BEGIN:VCARD
+VERSION:3.0
+N:Poojan;Shah;;;
+FN:Shah Poojan
+ORG:HIDDENBRAINS LLC
+ADR;TYPE=WORK:
+TITLE:AVP TECH
+TEL;TYPE=CELL:+919998417209
+TEL;TYPE=MSG:+919998417209
+EMAIL;TYPE=WORK:fff@gmail.com
+URL;TYPE=Digital Business Card:
+URL:google.com
+URL;TYPE=Website:google.com
+URL;TYPE=WhatsApp:https://wa.me/919998417209
+URL;TYPE=LinkedIn:https://linkedin.com/in/in/poojanshah
+KEY;TYPE=PGP;ENCODING=b:
+NOTE:Desc :  Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud
+UID:HiddenBrain-vCard
+END:VCARD
